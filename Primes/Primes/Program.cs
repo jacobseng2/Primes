@@ -6,6 +6,7 @@ namespace Primes
     {
         static void Main(string[] args)
         {
+            // Tracks the number of primes calculated
             int primeCount = 0;
             for (int i = 1;  primeCount <= 1000; i++)
             {
